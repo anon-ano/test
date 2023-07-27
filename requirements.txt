@@ -1,8 +1,8 @@
 pandas==1.4.4
-numpy==1.23.5
+numpy
 seaborn==0.12.1
-torch==2.0.0
-umap-learn==0.5
-numba==0.56.0
+torch
+umap-learn
+numba
 sklearn==0.0.post7
 imblearn==0.0
